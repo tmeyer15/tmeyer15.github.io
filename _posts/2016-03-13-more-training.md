@@ -5,7 +5,7 @@ date:   2016-03-13 09:00:54 -0800
 categories: machine learning
 ---
 
-##### I recommend checking out my more recent content, such as this post [here](/machine/learning/2016/09/10/loss-and-small-models.html)
+##### I recommend checking out my more recent content, such as this post [here](/machine/learning/2016/09/10/winning-a-loss-ing-battle.html)
 
 ## Recap
 
