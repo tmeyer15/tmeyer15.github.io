@@ -5,6 +5,8 @@ date:   2016-03-13 09:00:54 -0800
 categories: machine learning
 ---
 
+##### I recommend checking out my more recent content, such as this post [here](/machine/learning/2016/09/10/loss-and-small-models.html)
+
 ## Recap
 
 In my [last post](/machine/learning/2016/02/29/tf-start.html) I talked about how I wanted to learn Tensorflow and machine learning by trying to make a grayscale picture colorizer using deep convolutional neural networks. I found out that that was a challenging problem given my lack of machine learning experience, so I decided to tackle the simpler problem of making an autoencoder. Autoencoders are models that recreate their input and can be used to learn features of the input.
